@@ -30,17 +30,17 @@ This is a template for the EDAV final project. It is based on the template creat
 
 - [ ] 1. Render locally with `bookdown::render_book("index.Rmd")`.
 
-- [ ] 2. Commit and push the `docs` folder and any other changes to GitHub. 
+- [ ] 2. Commit and push all changed files to GitHub. 
 
-You will need to repeat this sequence every time you wish to update the book online.
+(You will need to repeat this sequence every time you wish to update the book online.)
 
 ### Set up GitHub Pages
 
-- [ ] 1. On the home page of your repo, click Settings. Scroll down to the GitHub pages section and change **Source** to **master branch /docs folder**.  The URL of your book will be displayed in the green bar above **Source**. (Although the URL is displayed immediately, sometimes there is a delay until the book is actually published.)
+- [ ] 1. On the home page of your repo, click Settings. Scroll down to the GitHub pages section and change **Source** to **master branch /docs folder**.  Above the **Source** line, a bar will appear with your book's URL. The bar will initially be blue and indicate that your is *ready* to be published and will change to green once it is published. Copy the URL. (Note that sometimes there is a delay until your book actually appears at that URL. If it doesn't appear after a few minutes, try making a small change locally, rendering the book, and pushing the changes to trigger a deploy.)
 
-- [ ] 2. Click the edit button on the top of the home page of the repo and add your book URL to the **Website** field that appears on the right.
+- [ ] 2. Click the edit button on the top of the home page of the repo and paste your book URL into the **Website** field that appears on the right.
 
-Once you are all setup, delete the content of this **README** and add a short description of your project with a link to the book URL.
+At some point before you turn in your project, delete the content of this **README** and add a short description of your project with a link to the book URL.
 
 For additional features, consult the official guide to **bookdown**: https://bookdown.org/yihui/bookdown
 
