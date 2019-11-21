@@ -4,7 +4,7 @@ This is a template for the EDAV final project. It is based on the template creat
 
 ### GitHub pages setup
 
-[ ] 1. On the home page of your repo, click Settings. Scroll down to the GitHub pages section and change **Source** to **master branch /docs folder**.  The URL of your book will be displayed in the green bar above **Source**. (Although the URL is displayed immediately, sometimes there is a delay until the book is actually published.)
+- [ ] 1. On the home page of your repo, click Settings. Scroll down to the GitHub pages section and change **Source** to **master branch /docs folder**.  The URL of your book will be displayed in the green bar above **Source**. (Although the URL is displayed immediately, sometimes there is a delay until the book is actually published.)
 
 [ ] 2. Change the web site field on the top of home page of the repo to your book URL.
 
