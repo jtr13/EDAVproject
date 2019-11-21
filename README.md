@@ -10,19 +10,21 @@ This is a template for the EDAV final project. It is based on the template creat
 
 - [ ] 3. In the Description field, write: "Bookdown source files for EDAV final project".
 
+### Clone the repo
+
+- [ ] 1. Clone your new repo with *File, New Project..., Version Control, Git" in RStudio.
+
 ### Edit some key files
 
-- [ ] 1. Clone your new repo.
+- [ ] 1. In `index.Rmd`, change YOUR TITLE HERE to your title.
 
-- [ ] 2. In `index.Rmd`, change YOUR TITLE HERE to your title.
+- [ ] 2. In `index.Rmd`, change YOUR NAMES HERE to your names.
 
-- [ ] 3. In `index.Rmd`, change YOUR NAMES HERE to your names.
+- [ ] 3. In `_bookdown.yml`, change YOUR GITHUB USERNAME to your GitHub username.
 
-- [ ] 4. In `_bookdown.yml`, change YOUR GITHUB USERNAME to your GitHub username.
+- [ ] 4. In `_bookdown.yml`, change YOUR GITHUB REPO to your GitHub repo name.
 
-- [ ] 5. In `_bookdown.yml`, change YOUR GITHUB REPO to your GitHub repo name.
-
-- [ ] 6. In `_output.yml`, change YOUR SHORT TITLE to a shortened version of your title. (Leave the "after:" line indicating that the book was published with bookdown as is.)
+- [ ] 5. In `_output.yml`, change YOUR SHORT TITLE to a shortened version of your title. (Leave the "after:" line indicating that the book was published with bookdown as is.)
 
 ### Render the book
 
