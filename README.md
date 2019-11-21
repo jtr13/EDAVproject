@@ -10,13 +10,13 @@ This is a template for the EDAV final project. It is based on the template creat
 
 - [ ] 3. In the Description field, write: "Bookdown source files for EDAV final project"
 
-### GitHub pages setup
+### Set up GitHub Pages
 
 - [ ] 1. On the home page of your repo, click Settings. Scroll down to the GitHub pages section and change **Source** to **master branch /docs folder**.  The URL of your book will be displayed in the green bar above **Source**. (Although the URL is displayed immediately, sometimes there is a delay until the book is actually published.)
 
 - [ ] 2. Click the edit button on the top of the home page of the repo and add your book URL to the **Website** field that appears on the right.
 
-### File edits
+### Edit some key files
 
 - [ ] 1. Clone the repo.
 
