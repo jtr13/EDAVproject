@@ -12,7 +12,7 @@ This is a template for the EDAV final project. It is based on the template creat
 
 ### Clone the repo
 
-- [ ] 1. Clone your new repo with *File, New Project..., Version Control, Git" in RStudio.
+- [ ] 1. Clone your new repo with *File, New Project..., Version Control, Git* in RStudio.
 
 ### Edit some key files
 
