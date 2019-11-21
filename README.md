@@ -2,11 +2,19 @@ This is a template for the EDAV final project. It is based on the template creat
 
 ## ABSOLUTE ESSENTIALS
 
+### Copy this template
+
+- [ ] 1. Click the green "Use this template" button above.  DO NOT FORK THE REPO.
+
+- [ ] 2. Choose a descriptive name for your repo, such as "federalbudget" or "AIDSdeaths".
+
+- [ ] 3. In the Description field, write: "Bookdown source files for EDAV final project"
+
 ### GitHub pages setup
 
 - [ ] 1. On the home page of your repo, click Settings. Scroll down to the GitHub pages section and change **Source** to **master branch /docs folder**.  The URL of your book will be displayed in the green bar above **Source**. (Although the URL is displayed immediately, sometimes there is a delay until the book is actually published.)
 
-- [ ] 2. Change the web site field on the top of home page of the repo to your book URL.
+- [ ] 2. Click the edit button on the top of the home page of the repo and add your book URL to the **Website** field that appears on the right.
 
 ### File edits
 
@@ -28,12 +36,9 @@ This is a template for the EDAV final project. It is based on the template creat
 
 - [ ] 2. Commit and push the `docs` folder and any other changes to GitHub. 
 
-(You will need to repeat this sequence every time you wish to update the book online.)
+You will need to repeat this sequence every time you wish to update the book online.
 
+Once you are all setup, delete the content of this **README** and add a short description of your project with a link to the book URL.
 
-## Nonessentials
-
-See ... for a quick summary of additional bookdown features relevant to this project.
-
-For the official guide to **bookdown** see: https://bookdown.org/yihui/bookdown.
+For additional features, consult the official guide to **bookdown**: https://bookdown.org/yihui/bookdown
 
