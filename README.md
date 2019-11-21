@@ -2,7 +2,7 @@ This is a template for the EDAV final project. It is based on the template creat
 
 ## ABSOLUTE ESSENTIALS
 
-FOLLOW THESE INSTRUCTIONS AND YOU WILL HAVE A WORKING BOOKDOWN BOOK IN LESS THAN FIVE MINUTES.
+*Follow these instructions and you will have a published bookdown book in less than five minutes.*
 
 ### Copy this template
 
