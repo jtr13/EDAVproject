@@ -8,17 +8,11 @@ This is a template for the EDAV final project. It is based on the template creat
 
 - [ ] 2. Choose a descriptive name for your repo, such as "federalbudget" or "AIDSdeaths".
 
-- [ ] 3. In the Description field, write: "Bookdown source files for EDAV final project"
-
-### Set up GitHub Pages
-
-- [ ] 1. On the home page of your repo, click Settings. Scroll down to the GitHub pages section and change **Source** to **master branch /docs folder**.  The URL of your book will be displayed in the green bar above **Source**. (Although the URL is displayed immediately, sometimes there is a delay until the book is actually published.)
-
-- [ ] 2. Click the edit button on the top of the home page of the repo and add your book URL to the **Website** field that appears on the right.
+- [ ] 3. In the Description field, write: "Bookdown source files for EDAV final project".
 
 ### Edit some key files
 
-- [ ] 1. Clone the repo.
+- [ ] 1. Clone your new repo.
 
 - [ ] 2. In `index.Rmd`, change YOUR TITLE HERE to your title.
 
@@ -28,7 +22,7 @@ This is a template for the EDAV final project. It is based on the template creat
 
 - [ ] 5. In `_bookdown.yml`, change YOUR GITHUB REPO to your GitHub repo name.
 
-- [ ] 6. In `_output.yml`, change YOUR SHORT TITLE to a shortened version of your title. (Leave the "after:" line as is.)
+- [ ] 6. In `_output.yml`, change YOUR SHORT TITLE to a shortened version of your title. (Leave the "after:" line indicating that the book was published with bookdown as is.)
 
 ### Render the book
 
@@ -37,6 +31,12 @@ This is a template for the EDAV final project. It is based on the template creat
 - [ ] 2. Commit and push the `docs` folder and any other changes to GitHub. 
 
 You will need to repeat this sequence every time you wish to update the book online.
+
+### Set up GitHub Pages
+
+- [ ] 1. On the home page of your repo, click Settings. Scroll down to the GitHub pages section and change **Source** to **master branch /docs folder**.  The URL of your book will be displayed in the green bar above **Source**. (Although the URL is displayed immediately, sometimes there is a delay until the book is actually published.)
+
+- [ ] 2. Click the edit button on the top of the home page of the repo and add your book URL to the **Website** field that appears on the right.
 
 Once you are all setup, delete the content of this **README** and add a short description of your project with a link to the book URL.
 
