@@ -16,6 +16,10 @@ This is a template for the EDAV final project. It is based on the template creat
 
 - [ ] 1. Clone your new repo with *File, New Project..., Version Control, Git* in RStudio.
 
+### Install bookdown
+
+- [ ] 1. Install **bookdown** with `install.packages("bookdown")`. If you already have it, update to version 0.16 (2019-11-22) or later.
+
 ### Edit some key files
 
 - [ ] 1. In `index.Rmd`, change YOUR TITLE HERE to your title.
