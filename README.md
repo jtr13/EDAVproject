@@ -39,7 +39,7 @@ This is a template for the EDAV final project. It is based on the template creat
 
 - [ ] 4. If it looks good, commit and push all changed files to GitHub. 
 
-(You will need to repeat this sequence every time you wish to update the book online.)
+(You will need to repeat steps 2 and 4 every time you wish to update the book online.)
 
 ### Set up GitHub Pages
 
