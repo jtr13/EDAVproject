@@ -53,3 +53,5 @@ At some point before you turn in your project, delete the content of this **READ
 
 For additional features, consult the official guide to **bookdown**: https://bookdown.org/yihui/bookdown
 
+If you found this template useful, please star this repo!
+
