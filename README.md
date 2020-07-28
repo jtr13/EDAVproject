@@ -49,10 +49,9 @@ This is a template for the EDAV final project. It is based on the template creat
 
 - [ ] 2. Click the gear button near "About" on the home page of the repo and paste your book URL into the **Website** field that appears on the right.
 
-At some point before you turn in your project, delete the content of this **README** and add a short description of your project with a link to the book URL.
+At some point before you turn in your project, delete the content of this **README** and add a short description of your project with a link to the book URL. Please add: "This repo was initially generated from a bookdown template available here: https://github.com/jtr13/EDAVproject" to the end of the README.
 
 For additional features, consult the official guide to **bookdown**: https://bookdown.org/yihui/bookdown
 
----
-This repo was initially generated from a bookdown template available here: https://github.com/jtr13/EDAVproject
+
 
